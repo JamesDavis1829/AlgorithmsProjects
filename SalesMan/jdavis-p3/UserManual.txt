@@ -1,0 +1,12 @@
+In order to use this program load up thePresets.txt and theCities.txt with your data. 
+
+thePresets.txt takes data in this order:
+[Individual tours per generation]
+[how many generations to run]
+[percentage of mutations]
+[percentage of elites]
+[number of cities to run]
+
+theCities takes 380 doubles that correspond to the distances between the cities.
+
+if there is no executable simply run make while in the program directory. Then run the executable and the output will be piped to stdout.

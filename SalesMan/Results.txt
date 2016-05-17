@@ -1,0 +1,164 @@
+Trial 1:
+
+The Presets are as follows:
+
+Individual Tours: 10
+
+Generations to run: 7000
+
+Percent of mutations: 60
+
+Percent of Elites: 10
+
+Number of Cities: 10
+
+
+Program Output:
+
+The best trail is:       0 8 3 6 5 2 1 7 4 9 0 
+
+With distance:           252.00
+
+The time spent in seconds: 0.081
+
+The simulated trail is:  0 1 7 8 3 4 9 6 5 2 0
+
+With Distance:           270.00
+
+Percent of best:         107.14
+The time spent in seconds: 0.022
+
+
+
+Trial 2:
+
+The Presets are as follows:
+
+Individual Tours: 10
+
+Generations to run: 7000
+
+Percent of mutations: 60
+
+Percent of Elites: 10
+
+Number of Cities: 11
+
+
+Program Output:
+
+The best trail is:       0 10 3 8 7 4 9 6 5 2 1 0 
+
+With distance:           240.00
+
+The time spent in seconds: 0.897
+
+The simulated trail is:  0 1 10 3 8 7 4 9 6 5 2 0
+
+With Distance:           316.00
+
+Percent of best:         131.67
+
+The time spent in seconds: 0.023
+
+
+
+Trial 3:
+
+The Presets are as follows:
+
+Individual Tours: 10
+
+Generations to run: 7000
+
+Percent of mutations: 60
+
+Percent of Elites: 10
+
+Number of Cities: 12
+
+
+Program Output:
+
+The best trail is:       0 10 3 8 11 7 4 9 6 5 2 1 0 
+
+With distance:           247.00
+
+The time spent in seconds: 10.670
+
+The simulated trail is:  0 1 5 3 4 9 6 2 7 8 11 10 0
+
+With Distance:           373.00
+
+Percent of best:         151.01
+
+The time spent in seconds: 0.024
+
+
+
+Trial 4:
+
+The Presets are as follows:
+
+Individual Tours: 10
+
+Generations to run: 7000
+
+Percent of mutations: 60
+
+Percent of Elites: 10
+
+Number of Cities: 13
+
+
+Program Output:
+
+The best trail is:       0 8 12 10 3 11 7 4 9 6 5 2 1 0 
+
+With distance:           251.00
+
+The time spent in seconds: 135.380
+
+The simulated trail is:  0 1 2 3 4 5 11 8 7 12 10 9 6 0
+
+With Distance:           367.00
+
+Percent of best:         146.22
+
+The time spent in seconds: 0.026
+
+
+
+Trial 5:
+
+The Presets are as follows:
+
+Individual Tours: 10
+
+Generations to run: 7000
+
+Percent of mutations: 60
+
+Percent of Elites: 10
+
+Number of Cities: 14
+
+
+Program Output:
+
+The best trail is:       0 1 7 12 10 3 8 11 4 9 6 5 13 2 0 
+
+With distance:           270.00
+
+The time spent in seconds: 595.687
+
+The simulated trail is:  0 1 11 3 4 5 13 7 8 12 10 9 6 2 0
+
+With Distance:           404.00
+
+Percent of best:         149.63
+
+The time spent in seconds: 0.032
+
+
+

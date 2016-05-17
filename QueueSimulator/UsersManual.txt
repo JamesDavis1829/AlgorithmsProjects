@@ -1,0 +1,27 @@
+This program requires that there be a text file called "runSimulation.txt" in the same directory as the program
+This file must be formatted as follows:
+NumberForLambda
+NumberForMu
+NumberForM
+NumberForN
+
+for example the file:
+2
+3
+2
+5000
+would run the simulation for lambda = 2, mu = 3, M = 2, and n = 5000. In order to run the simulation just run the file called
+simulation provided it is in the same directory as the specified text file. If the program simulation does not exist run make 
+and it will be creted using the source files.
+
+Known Issues:
+-The values of experimental P0 and experimental Wq are incorrect.
+	This bug has been explored in the following ways:
+	Checking the sorting of the heap
+	Rewriting the heap sorting algorithms
+	Checking the time functions to make sure that they returning the correct average value
+	Checking for alternate Ms,ns, mus,and lambdas
+	Checking to make sure the process statement is in the correct order
+	Checking the amout of people processed through the simulation
+	Checking to see that all of the people processed are not garbage values
+	It appears to be an issue with how many people are processed as departures and arrivals in a row however the cause of this issue it not known
